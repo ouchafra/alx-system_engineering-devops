@@ -1,0 +1,9 @@
+#!/bin/bash
+0 string SCHOOL School data
+!:mime School
+
+(after saving the school.mgc file , put that command in the terminal)
+
+
+file -C -m school.mgc
+
