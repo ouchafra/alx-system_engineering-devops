@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 def match_school(input)
-    regex = /School/
+    regex = /hbtttn(t*)$/
 
     match_result = input.match(regex)
 
