@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # servers are the piece of software generating and serving HTML pages
-# instaling nginx on the web-01
+# installing nginx on the web-01
 
 apt-get update -y
 apt-get install nginx -y
 sudo ufw allow 'Nginx HTTP'
-SH -c 'echo "Hello World!" > /var/www/html/index.html'
+sh -c 'echo "Hello World!" > /var/www/html/index.html'
 service nginx restart
