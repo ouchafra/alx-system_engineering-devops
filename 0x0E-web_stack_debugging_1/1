@@ -1,0 +1,7 @@
+Hit:1 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu focal InRelease
+Get:3 http://archive.ubuntu.com/ubuntu focal-updates InRelease [128 kB]
+Hit:4 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Fetched 128 kB in 5s (23.7 kB/s)
+Reading package lists...
